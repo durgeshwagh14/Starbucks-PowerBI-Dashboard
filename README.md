@@ -5,6 +5,7 @@ This Power BI dashboard provides a global analysis of Starbucks store locations,
 It is designed to deliver quick executive-level insights using interactive visuals and filters.
 
 ![Dashboard Preview](images/dashboard_preview.jpg)
+![Uploading Starbucks Dashboard .jpg…]()
 
 ---
 
